@@ -1,0 +1,23 @@
+TO DO
+
+	message label - show amount sold from both table selections
+		(check sold_parts with same search, COUNT(*))
+			
+	error with switching tables and columns
+		fix search
+		
+	delete buttons
+	
+	add new parts button
+		
+	new connection (intro screen?) onto website
+		backup to my computer after new connection
+			
+	organize buttons at bottom
+	
+	color / fonts
+
+	addPart from a table	
+		ask how many new parts there are then make table w that many rows
+
+	CHANGE WHERE STATEMENTS TO HAVING to save resources
